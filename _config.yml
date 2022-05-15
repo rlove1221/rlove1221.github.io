@@ -30,7 +30,7 @@ twitter_username                          : ebaehr
 github_username                           : emilbaehr
 youtube_username                          :
 
-
+<!
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
@@ -74,7 +74,7 @@ features                                  :
   - title                                 : # New Feature Title
     description                           : # New Feature Description
     fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
-
+>
 
 
 # Theme Settings
